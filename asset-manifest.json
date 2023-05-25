@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://kino6052.github.io/csb-iylg7y/static/css/main.8e3e5cee.css",
+    "main.js": "https://kino6052.github.io/csb-iylg7y/static/js/main.1d0b1c35.js",
+    "index.html": "https://kino6052.github.io/csb-iylg7y/index.html",
+    "main.8e3e5cee.css.map": "https://kino6052.github.io/csb-iylg7y/static/css/main.8e3e5cee.css.map",
+    "main.1d0b1c35.js.map": "https://kino6052.github.io/csb-iylg7y/static/js/main.1d0b1c35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e3e5cee.css",
+    "static/js/main.1d0b1c35.js"
+  ]
+}
